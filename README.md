@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, thanks for coming to github!
+I'm currently working on my full-stack music recommendation web application which focuses on undiscovered artists from BandCamp. 
+Check it out in "put-you-on"
 
 <!--
 **bframos8/bframos8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
