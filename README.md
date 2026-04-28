@@ -1,4 +1,4 @@
-## Hey, thanks for coming to github!
+## Hey, thanks for coming to github! Looking forward to working with you. 
 I'm currently working on my full-stack music recommendation web application which focuses on undiscovered artists from BandCamp. 
 Check it out in "put-you-on"
 
